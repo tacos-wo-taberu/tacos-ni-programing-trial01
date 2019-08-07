@@ -1,1 +1,4 @@
-# tacos-ni-programing-trial01
+# tacos-ni-programming-trial01
+#
+# github を使うための練習
+# 
